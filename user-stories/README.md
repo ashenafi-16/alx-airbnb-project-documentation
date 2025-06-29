@@ -1,15 +1,11 @@
-# 🗂️ User Stories Directory
+# 📋 User Stories
 
-This directory contains the user stories derived from the Airbnb Clone Use Case Diagram. Each story describes how users interact with the backend system from a functional and goal-oriented perspective.
-
-## 📄 Files
-
-- `user-stories.md` – Contains a list of user stories for Guests, Hosts, and Admins.
+This directory contains the user stories derived from the use case diagram of the **Airbnb Clone Backend** project.
 
 ## 📌 Purpose
 
-Translating use cases into user stories helps development teams:
-- Understand the real needs of the users.
-- Break down system functionality into developer-friendly requirements.
-- Prioritize and manage backend development tasks.
+The user stories help translate system requirements into developer-friendly, user-centered descriptions. These stories guide feature development and ensure each functionality aligns with real-world user needs.
 
+## 📁 Files
+
+- **user-stories.md** — Contains detailed user stories for all key actors in the system: Hosts, Guests, Admins, and System-Level interactions.
